@@ -12,7 +12,7 @@ dependencies:
 
 dev_dependencies:
   custom_lint: ^0.8.1
-  stark_accessibility_lint: ^1.0.2
+  stark_accessibility_lint: ^1.0.3
 
 flutter:
   uses-material-design: true
